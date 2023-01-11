@@ -79,7 +79,7 @@ header nav ul li {
 	font-size: .88em;
 	font-weight: 700;
 	text-transform: uppercase;
-	padding: 0 10px;
+	padding: 10px 0px;
 	width: 100%;
 }
 
@@ -188,20 +188,22 @@ footer span {
 	.section-two,
 	.section-three {
 		box-sizing: border-box;
-		padding: 0 40px;
 	}
 	
 	.section-one {
 		width: 30%;
+		padding: 0 10px;
 	}
 	
 	.section-two {
 		width: 30%;
+		padding: 0 40px;
 		border-left: 5px solid #EEE;
 	}
 	
 	.section-three {
 		width: 30%;
+		padding: 0 10px;
 		border-left: 5px solid #EEE;
 	}
 	
@@ -248,21 +250,24 @@ footer span {
 	.section-two,
 	.section-three {
 		box-sizing: border-box;
-		padding: 0 40px;
+	
 	}
 	
 	.section-one {
 		width: 30%;
+		padding: 0 10px;
 	}
 	
 	.section-two {
 		width: 30%;
+		padding: 0 40px;
 		border-left: 5px solid #EEE;
 	}
 	
 	.section-three {
 		width: 30%;
 		border-left: 5px solid #EEE;
+		padding: 0 10px;
 	}
 	
 }
